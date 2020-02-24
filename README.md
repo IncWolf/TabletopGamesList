@@ -1,2 +1,2 @@
-# DesktopGamesList
+# TabletopGamesList
 A React-based application that stores data in Firebase Cloud
